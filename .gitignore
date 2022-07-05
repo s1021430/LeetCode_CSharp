@@ -1,0 +1,14 @@
+﻿################################################################################
+# 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
+################################################################################
+
+/.vs
+/LeetCodeTest/bin/Debug/net6.0/CoverletSourceRootsMapping
+/LeetCodeTest/obj/Debug/net6.0/LeetCodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/LeetCodeTest/obj/Debug/net6.0/LeetCodeTest.csproj.AssemblyReference.cache
+/LeetCodeTest/obj/Debug/net6.0/LeetCodeTest.AssemblyInfoInputs.cache
+/LeetCodeTest/obj/Debug/net6.0/LeetCodeTest.AssemblyInfo.cs
+/obj/Debug/net5.0/LeetCode.AssemblyInfo.cs
+/obj/Debug/net5.0/LeetCode.AssemblyInfoInputs.cache
+/obj/Debug/net5.0/LeetCode.csproj.AssemblyReference.cache
+/obj/Debug/net5.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig

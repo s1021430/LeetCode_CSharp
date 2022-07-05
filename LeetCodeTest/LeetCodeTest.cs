@@ -84,4 +84,13 @@ public class Tests
         var actual = Base7converter.ConvertToBase7(input);
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    public void ReverseStringTest()//344
+    {
+        var input = new[]{'h','e','l','l','o'};
+        var expected = new[] { 'o', 'l', 'l', 'e', 'h' };
+        _344ReverseString.ReverseString(input);
+        Assert.That(input, Is.EqualTo(expected));
+    }
 }
